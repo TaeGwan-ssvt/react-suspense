@@ -1,0 +1,5 @@
+{
+  "extends": [
+    "@ssvt/eslint-config-react/cra"
+  ]
+}
